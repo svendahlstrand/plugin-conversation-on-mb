@@ -26,15 +26,13 @@ This Micro.blog plug-in is still in beta. But it's a working plug-in that you ca
 1. Sign in to https://micro.blog in your favorite browser.
 
 2. [Follow this link](https://micro.blog/account/themes/new?plugin=1) or manually go to *Design* → *Edit Custom Themes* and press *New Plug-in*.
-
 3. Enter a fitting *Title* (like Conversation on Micro.blog).
-
-4. Enter `https://github.com/svendahlstrand/plugin-conversation-on-mb` inside *Clone URL*.
-
+4. Paste the following into *Clone URL*:
+```
+https://github.com/svendahlstrand/plugin-conversation-on-mb
+```
 5. Choose which *Site* you want to install the plug-in.
-
 6. Press *Add Plug-in*
-
 7. Congratulations, the plug-in is installed. On to configuration.
 
 ### Include the Conversation on Micro.blog link in your custom theme
@@ -45,9 +43,12 @@ For this step, you need a custom theme. Maybe you already have one? If not, [fol
 
 2. Click on your custom theme. (It's probably named Marfa Custom or something like that.)
 
-3. Click on the template `layouts/post/single.html`
+3. Click on the relevant template. (Often `layouts/post/single.html` but varies from theme to theme.)
 
-4. Add this partial call where you see fit: `{{ partial "conversation-link.html" . }}`. A good place is after the content (look for `{{ .Content }}` in the template).
+4. Paste the following partial call where you see fit. For some themes, a good place might be after the content (look for `{{ .Content }}` in the template).
+```
+{{ partial "conversation-link.html" . }}
+```
 
 5. Press *Update Template* and pat yourself on the back.
 
@@ -61,7 +62,7 @@ For this step, you need a custom theme. Maybe you already have one? If not, [fol
 
 1. Go to *Plug-ins* and press ⚙️ *Settings* (next to the Conversation on Micro.blog plug-in).
 
-2. Make other changes as you see fit.
+2. Make changes as you see fit.
 
 4. Press *Update Settings* and go to the next step.
 

@@ -5,7 +5,7 @@
   const conversationLink = document.querySelector('.conversation-on-mb');
   //const currentPageURLEncoded = encodeURIComponent('{{ .Permalink }}');
 
-  fetch(`https://micro.blog/conversation.js?format=jsonfeed&url={{ .Permalink }}`)
+  fetch('https://micro.blog/conversation.js?format=jsonfeed&url={{ .Permalink }}')
   .then(response => response.json())
   .then(conversation => {
     conversationLink.setAttribute('href', conversation.home_page_url);

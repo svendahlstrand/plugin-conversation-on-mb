@@ -15,5 +15,8 @@
     conversationLink.setAttribute('href', conversation.home_page_url);
     conversationLink.innerText = '{{ $link_text }}';
     conversationLink.classList.remove('conversation-on-mb-fallback');
+  })
+  .catch((error) => {
+    // TODO: nothing for now…
   });
 </script>

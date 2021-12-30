@@ -1,0 +1,14 @@
+{{ $link_text := $.Site.Params.conversation_on_mb_link_text }}
+
+<a href="#" class="conversation-on-mb">✴️ Loading…</a>
+<script>
+  const conversationLink = document.querySelector('.conversation-on-mb');
+  //const currentPageURLEncoded = encodeURIComponent('{{ .Permalink }}');
+
+  fetch(`https://micro.blog/conversation.js?format=jsonfeed&url={{ .Permalink }}`)
+  .then(response => response.json())
+  .then(conversation => {
+    conversationLink.setAttribute('href', conversation.home_page_url);
+    conversationLink.innerText = '{{ $link_text }}';
+  });
+</script>

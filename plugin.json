@@ -1,0 +1,12 @@
+{
+  "version": "0.1.0",
+  "title": "Conversation on Micro.blog",
+  "description": "Link to your post on the Micro.blog timeline.",
+  "fields": [
+    {
+      "field": "params.conversation_on_mb_link_text",
+      "label": "Link text",
+      "placeholder": "✴️ Conversation on Micro.blog"
+    }
+  ]
+}

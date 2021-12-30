@@ -2,7 +2,7 @@
 
 These instructions are for the Tufte theme to get this specific look:
 
-![](./docs/screenshot.png)
+![](./tufte-screenshot.png)
 
 Of course, your are free to include the link in any way you want. 😊 This is just one way to do it.
 

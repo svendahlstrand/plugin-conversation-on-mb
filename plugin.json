@@ -2,6 +2,9 @@
   "version": "0.1.0",
   "title": "Conversation on Micro.blog",
   "description": "Link to your post on the Micro.blog timeline.",
+  "includes": [
+    "conversation-on-mb-styles.html"
+  ],
   "fields": [
     {
       "field": "params.conversation_on_mb_link_text",

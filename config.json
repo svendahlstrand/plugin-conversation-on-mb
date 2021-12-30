@@ -1,5 +1,5 @@
 {
   "params": {
-    "conversation_on_mb_link_text": "✴️ Conversation on Micro.blog"
+    "conversation_on_mb_show_fallback_link": true
   }
 }

@@ -7,6 +7,21 @@
       "field": "params.conversation_on_mb_link_text",
       "label": "Link text",
       "placeholder": "✴️ Conversation on Micro.blog"
+    },
+    {
+      "field": "params.conversation_on_mb_fallback_url",
+      "label": "Fallback URL",
+      "placeholder": "https://micro.blog/you"
+    },
+    {
+      "field": "params.conversation_on_mb_fallback_link_text",
+      "label": "Fallback link text",
+      "placeholder": "Also on Micro.blog"
+    },
+    {
+      "field": "params.conversation_on_mb_show_fallback_link",
+      "label": "Show fallback link",
+      "type": "boolean"
     }
   ]
 }

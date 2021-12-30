@@ -77,9 +77,9 @@ go to my profile on Micro.blog
 
 3. Press *Update CSS* and go to the next step.
 
-## Make sure the Conversation on Micro.blog link show up
+## Make sure the join the conversation on Micro.blog link show up
 
-1. Find a post on your blog and make sure you see the *Conversation on Micro.blog* link.
+1. Find a post on your blog and make sure you see the *join the conversation on Micro.blog* link.
 
 2. Click it, make sure it takes you to the timeline on Micro.blog.
 

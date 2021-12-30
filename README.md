@@ -2,7 +2,7 @@
 
 Link to your post on the Micro.blog timeline.
 
-![](./docs/screenshot.png)
+![](./docs/tufte-screenshot.png)
 
 > With this convenient plug-in your blog posts get a **Conversation on Micro.blog** link. When a reader taps that link, they will swiftly end up on the Micro.blog timeline for your blog post.
 
@@ -64,7 +64,7 @@ For this step, you need a custom theme. Maybe you already have one? If not, [fol
 
 2. Make changes as you see fit.
 
-4. Press *Update Settings* and go to the next step.
+3. Press *Update Settings* and go to the next step.
 
 ### Having troubles?
 

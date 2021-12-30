@@ -4,7 +4,7 @@ These instructions are for the Tufte theme to get this specific look:
 
 ![](./tufte-screenshot.png)
 
-Of course, your are free to include the link in any way you want. 😊 This is just one way to do it.
+Of course, you are free to include the link in any way you want. 😊 This is just one way to do it.
 
 ## Install the plug-in
 
@@ -77,7 +77,7 @@ go to my profile on Micro.blog
 
 3. Press *Update CSS* and go to the next step.
 
-## Make sure the join the conversation on Micro.blog link show up
+## Make sure the "join the conversation on Micro.blog" link show up
 
 1. Find a post on your blog and make sure you see the *join the conversation on Micro.blog* link.
 

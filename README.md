@@ -4,7 +4,7 @@ Link to your post on the Micro.blog timeline.
 
 ![](./docs/screenshot.png)
 
-> With this convenient plug-in your blog posts get a **Conversation on Micro.blog** link. When a reader taps that link, they will swiftly end up on the Micro.blog timeline for your blog post.
+> With this convenient plug-in, your blog posts get a **Conversation on Micro.blog** link. When a reader taps that link, they will swiftly end up on the Micro.blog timeline for your blog post.
 
 To get updates on this plug-in, [follow @sod on Micro.blog](https://micro.blog/sod).
 
@@ -52,7 +52,7 @@ For this step, you need a custom theme. Maybe you already have one? If not, [fol
 
 5. Press *Update Template* and pat yourself on the back.
 
-### Make sure the Conversation on Micro.blog link show up
+### Make sure the Conversation on Micro.blog link shows up
 
 1. Find a post on your blog and make sure you see the *Conversation on Micro.blog* link.
 

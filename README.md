@@ -1,4 +1,4 @@
-# ✴️ Conversation on Micro.blog
+# 🏕 Conversation on Micro.blog
 
 Link to your post on the Micro.blog timeline from your blog.
 

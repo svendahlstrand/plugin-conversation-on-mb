@@ -8,17 +8,10 @@ Of course, you are free to include the link in any way you want. 😊 This is ju
 
 ## Install the plug-in
 
-1. Sign in to https://micro.blog in your favorite browser.
-
-2. [Follow this link](https://micro.blog/account/themes/new?plugin=1) or manually go to *Design* → *Edit Custom Themes* and press *New Plug-in*.
-3. Enter a fitting *Title* (like Conversation on Micro.blog).
-4. Paste the following into *Clone URL*:
-```
-https://github.com/svendahlstrand/plugin-conversation-on-mb
-```
-5. Choose which *Site* you want to install the plug-in.
-6. Press *Add Plug-in*
-7. Congratulations, the plug-in is installed. On to configuration.
+1. Find Conversation on Micro.blog in the plug-in directory.
+2. Choose the site you want to install the plug-in to.
+3. Press *Install*.
+4. Congratulations, the plug-in is now installed.
 
 ## Include the Conversation on Micro.blog link in the Tufte theme
 

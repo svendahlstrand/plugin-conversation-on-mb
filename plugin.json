@@ -19,7 +19,7 @@
     {
       "field": "params.conversation_on_mb_fallback_link_text",
       "label": "Fallback link text",
-      "placeholder": "Also on Micro.blog"
+      "placeholder": "✴️ Also on Micro.blog"
     },
     {
       "field": "params.conversation_on_mb_show_fallback_link",

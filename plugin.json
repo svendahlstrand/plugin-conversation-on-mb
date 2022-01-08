@@ -1,7 +1,7 @@
 {
-  "version": "0.6.0",
+  "version": "1.0.0",
   "title": "Conversation on Micro.blog",
-  "description": "Link to your post on the Micro.blog timeline.",
+  "description": "Link to your post on the Micro.blog timeline from your blog.",
   "includes": [
     "conversation-on-mb-styles.html"
   ],

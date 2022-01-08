@@ -1,10 +1,10 @@
 # ✴️ Conversation on Micro.blog
 
-Link to your post on the Micro.blog timeline.
+Link to your post on the Micro.blog timeline from your blog.
 
 ![](./docs/screenshot.png)
 
-> With this convenient plug-in, your blog posts get a **Conversation on Micro.blog** link. When a reader taps that link, they will swiftly end up on the Micro.blog timeline for your blog post.
+> With this convenient plug-in, your blog posts get a **Conversation on Micro.blog** link. When a reader taps that link, they will swiftly end up on the Micro.blog timeline for your blog post. From there, it's easy to engage in the conversation.
 
 To get updates on this plug-in, [follow @sod on Micro.blog](https://micro.blog/sod).
 
@@ -21,7 +21,7 @@ Hello, fellow microblogger! 👋 Thanks for being here. This plug-in is availabl
 
 ### Install the plug-in
 
-1. Find Conversation on Micro.blog in the plug-in directory.
+1. Find [Conversation on Micro.blog](https://micro.blog/account/plugins/view/41) in the plug-in directory.
 2. Choose the site you want to install the plug-in to.
 3. Press *Install*.
 4. Congratulations, the plug-in is now installed.

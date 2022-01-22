@@ -2,7 +2,7 @@
 
 Link to your post on the Micro.blog timeline from your blog.
 
-![](./docs/screenshot.png)
+![](https://github.com/svendahlstrand/plugin-conversation-on-mb/raw/main/docs/screenshot.png)
 
 > With this convenient plug-in, your blog posts get a **Conversation on Micro.blog** link. When a reader taps that link, they will swiftly end up on the Micro.blog timeline for your blog post. From there, it's easy to engage in the conversation.
 
@@ -77,7 +77,7 @@ If you're comfortable with CSS, there are endless possibilities for styling. And
 
 The *Conversation on Micro.blog* link is just an `a` element with the class `conversation-on-mb`. I experimented with the CSS below to get a nice hover effect. It's not guaranteed to look good on your blog, though. 😉
 
-<img src="./docs/styling-example.png" alt="" width="304" height="108" />
+<img src="https://github.com/svendahlstrand/plugin-conversation-on-mb/raw/main/docs/styling-example.png" alt="" width="304" height="108" />
 
 To add custom CSS to a Micro.blog, navigate to *Design* → *Edit CSS*.
 

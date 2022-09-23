@@ -8,6 +8,12 @@ Link to your post on the Micro.blog timeline from your blog.
 
 To get updates on this plug-in, [follow @sod on Micro.blog](https://micro.blog/sod).
 
+## Do you get value from Conversation on Micro.blog? I'd love your support!
+
+Hey! It's me, Sven. Conversation on Micro.blog and my other plug-ins are passion projects released to the world for free. That said, donations are always welcome if you get value from my work.
+
+[💸 Donate $10](https://dahlstrand.net/donate/) or any amount you're comfortable with. Thanks! 🙏
+
 ## Bells and whistles
 
 * 🛠 Customizable via plug-in settings.

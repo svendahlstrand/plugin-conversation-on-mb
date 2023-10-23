@@ -5,7 +5,6 @@
 
 <a href="{{ $fallback_url }}" class="conversation-on-mb conversation-on-mb-fallback">{{ $fallback_link_text | safeHTML }}</a>
 <script>
-  // TODO: Temporary, will handle multiple instances in the future.
   const conversationLink = document.querySelector('.conversation-on-mb');
   const currentPageURLEncoded = encodeURIComponent('{{ .Permalink }}');
 
@@ -15,8 +14,5 @@
     conversationLink.setAttribute('href', conversation.home_page_url);
     conversationLink.innerHTML = '{{ $link_text | safeHTML }}';
     conversationLink.classList.remove('conversation-on-mb-fallback');
-  })
-  .catch((error) => {
-    // TODO: nothing for now…
   });
 </script>

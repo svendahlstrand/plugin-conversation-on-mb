@@ -17,7 +17,7 @@ Hey! It's me, Sven. Conversation on Micro.blog and my other plug-ins are passion
 ## Bells and whistles
 
 * 🛠 Customizable via plug-in settings.
-* ✴️ Change the link text to whatever you want. Go bananas! Use emojis!
+* ✴️ Change the link text to whatever you want. Go bananas! Use emojis! Or HTML!
 * ⛳️ Flexible placement in your theme using a Hugo partial.
 * 🎁 Customize the look and feel using CSS.
 
@@ -76,6 +76,16 @@ There's an easy way to add a space between the *Conversation on Micro.blog* link
 ```
 
 That should result in the same amount of breathing space text paragraphs have between them.
+
+#### Be creative with emoji and HTML
+
+On the plug-in ⚙️ *Settings* page, you can customize the link text. The default ✴️ *Conversation on Micro.blog* can be changed into anything you want. You can even use emoji and HTML!
+
+If you install [the Font Awesome plug-in](https://micro.blog/account/plugins/view/74) you'll get plenty of additional icons to use. Do you want the fancy Micro.blog logo next to your text? Save your link text like this:
+
+```html
+<i class="fa-brands fa-microblog"></i> Conversation on Micro.blog
+```
 
 #### Flexible look and hover effect using CSS
 

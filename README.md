@@ -32,9 +32,11 @@ Hello, fellow microblogger! 👋 Thanks for being here. This plug-in is availabl
 3. Press *Install*.
 4. Congratulations, the plug-in is now installed.
 
-### Include the Conversation on Micro.blog link in your custom theme
+### Include the Conversation on Micro.blog link in your theme
 
-For this step, you need a custom theme. Maybe you already have one? If not, [follow Manton's instructions here](https://help.micro.blog/t/custom-themes/59).
+Some themes, like Hitchens and Tiny, come with built-in support for this plug-in. If you're on such a theme, skip this step and continue to *Make sure the Conversation on Micro.blog link shows up*.
+
+If your current theme lacks built-in support, you need a custom theme. Maybe you already have one? If not, [follow Manton's instructions here](https://help.micro.blog/t/custom-themes/59).
 
 1. [Follow this link](https://micro.blog/account/themes) or go to *Design* → *Edit Custom Themes*.
 

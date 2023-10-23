@@ -4,7 +4,7 @@
 {{ $fallback_link_text := or $.Site.Params.conversation_on_mb_fallback_link_text "✴️ Also on Micro.blog" }}
 
 <a href="{{ $fallback_url }}" class="conversation-on-mb conversation-on-mb-fallback">{{ $fallback_link_text | safeHTML }}</a>
-<script>
+<script module>
   const conversationLink = document.querySelector('.conversation-on-mb');
   const currentPageURLEncoded = encodeURIComponent('{{ .Permalink }}');
 
